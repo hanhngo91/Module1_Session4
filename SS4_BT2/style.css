@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    margin: 30px 30px;
+}
+p {
+    text-align: justify;
+}
+.side {
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 20px;
+    color: darkgreen;
+}
+span {
+    text-decoration: underline;
+    color: blue;
+}
